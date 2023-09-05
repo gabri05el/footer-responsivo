@@ -15,10 +15,10 @@
 }
 
 * {
-    padding: 0;
-    margin: 0;
     box-sizing: border-box;
     font-family: 'Quicksand', sans-serif;
+    padding: 0;
+    margin: 0;
 }
 
 footer {
@@ -68,7 +68,6 @@ footer {
 
 .instagram {
     background: var(--cor-instagram);
-
 }
 
 .facebook {
@@ -89,7 +88,6 @@ footer {
 .footer-lista .footer-link {
     color: var(--cor-neutra-03);
     transition: var(--trasicao-04s);
-
 }
 
 .footer-lista .footer-link:hover {
